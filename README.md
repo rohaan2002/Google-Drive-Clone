@@ -12,3 +12,6 @@
  - [x] Dark Mode
  - [x] Drag Drop Upload
  - [ ] Sub Folders
+ 
+ kuch bhi krra hu hehe dont mind me boi
+ 
